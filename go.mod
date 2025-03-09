@@ -1,4 +1,4 @@
-module github.com/vishal-bihani/go-tsid
+module github.com/rushysloth/go-tsid
 
 go 1.20
 

@@ -67,7 +67,7 @@ The TSID generator is [thread-safe](https://en.wikipedia.org/wiki/Thread_safety)
 Run the following command:
 
 ```shell
-go get github.com/vishal-bihani/go-tsid
+go get github.com/rushysloth/go-tsid
 ```
 
 ### TSID as Number
